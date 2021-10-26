@@ -10,3 +10,6 @@ bin
 *.VC.opendb
 *.VC.db
 *.ipch
+*.db
+Browse.VC.db
+Pascal/.vs/Pascal/v16/Browse.VC.db
