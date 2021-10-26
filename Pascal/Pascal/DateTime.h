@@ -3,8 +3,6 @@
 
 
 bool IsLeapYear(int year);
-<<<<<<< HEAD
-int LaterInYear();
-=======
 int DaysInYear(int year);
->>>>>>> New
+int DaysInYearRange(int year1, int year2);
+int SeconsInHours(int hours);
