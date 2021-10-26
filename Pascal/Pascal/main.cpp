@@ -12,4 +12,11 @@ int main()
 
 
     std::cout << DaysInYearRange(2000, 2020) << std::endl;
+
+
+
+    assert(IsYearOfApocalypse(2011) == 1);
+    assert(IsYearOfApocalypse(2010) == 0);
+
+
 }
