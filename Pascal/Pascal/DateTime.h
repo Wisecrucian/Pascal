@@ -3,4 +3,3 @@
 
 
 bool IsLeapYear(int year);
-int SecondsInMinute();
