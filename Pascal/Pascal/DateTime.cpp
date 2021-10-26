@@ -9,14 +9,3 @@ int DaysInYear(int year)
 {
 	return (IsLeapYear(year) == 1) ? 366 : 365;
 }
-
-
-int SeconsInHours(int hours)
-{
-	return hours * 3600;
-}
-
-bool IsYearOfApocalypse(int year)
-{
-	return year == 1992 || year == 2005 || year == 2011;
-}

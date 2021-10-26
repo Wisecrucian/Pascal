@@ -10,3 +10,4 @@ bin
 *.VC.opendb
 *.VC.db
 *.ipch
+*.db
